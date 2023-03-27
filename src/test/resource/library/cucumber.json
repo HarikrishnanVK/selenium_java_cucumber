@@ -1,0 +1,1310 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 11,
+        "name": "To verify user interest for the countries",
+        "description": "",
+        "id": "bupa-where-you-are-module;to-verify-user-interest-for-the-countries;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 3495020000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 20473181200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the \"where you are\" login page of \"RegressionUI\" using \"config\" browser on \"config\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "where you are",
+                  "offset": 13
+                },
+                {
+                  "val": "RegressionUI",
+                  "offset": 43
+                },
+                {
+                  "val": "config",
+                  "offset": 64
+                },
+                {
+                  "val": "config",
+                  "offset": 84
+                }
+              ],
+              "location": "HomPageSteps.i_am_on_the_login_page_of_using_browser_on(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2772773600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on country using \"United Kingdom\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "United Kingdom",
+                  "offset": 26
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_click_on_country_using(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 60325100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be navigated to the \"RegressionUI\" of \"UnitedkingdomPage\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RegressionUI",
+                  "offset": 30
+                },
+                {
+                  "val": "UnitedkingdomPage",
+                  "offset": 48
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_should_be_navigated_to_the_of(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WhereYouAre"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionUIm5"
+          },
+          {
+            "line": 3,
+            "name": "@Regressionm5"
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "To verify user interest for the countries",
+        "description": "",
+        "id": "bupa-where-you-are-module;to-verify-user-interest-for-the-countries;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 3375660400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11033537000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the \"where you are\" login page of \"RegressionUI\" using \"config\" browser on \"config\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "where you are",
+                  "offset": 13
+                },
+                {
+                  "val": "RegressionUI",
+                  "offset": 43
+                },
+                {
+                  "val": "config",
+                  "offset": 64
+                },
+                {
+                  "val": "config",
+                  "offset": 84
+                }
+              ],
+              "location": "HomPageSteps.i_am_on_the_login_page_of_using_browser_on(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4356324200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on country using \"Australia\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Australia",
+                  "offset": 26
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_click_on_country_using(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 44117200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be navigated to the \"RegressionUI\" of \"AustraliaPage\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RegressionUI",
+                  "offset": 30
+                },
+                {
+                  "val": "AustraliaPage",
+                  "offset": 48
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_should_be_navigated_to_the_of(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WhereYouAre"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionUIm5"
+          },
+          {
+            "line": 3,
+            "name": "@Regressionm5"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "To verify user interest for the countries",
+        "description": "",
+        "id": "bupa-where-you-are-module;to-verify-user-interest-for-the-countries;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 2851057300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15958502800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the \"where you are\" login page of \"RegressionUI\" using \"config\" browser on \"config\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "where you are",
+                  "offset": 13
+                },
+                {
+                  "val": "RegressionUI",
+                  "offset": 43
+                },
+                {
+                  "val": "config",
+                  "offset": 64
+                },
+                {
+                  "val": "config",
+                  "offset": 84
+                }
+              ],
+              "location": "HomPageSteps.i_am_on_the_login_page_of_using_browser_on(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2688566700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on country using \"Chile\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Chile",
+                  "offset": 26
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_click_on_country_using(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 19441600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be navigated to the \"RegressionUI\" of \"ChilePage\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RegressionUI",
+                  "offset": 30
+                },
+                {
+                  "val": "ChilePage",
+                  "offset": 48
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_should_be_navigated_to_the_of(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WhereYouAre"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionUIm5"
+          },
+          {
+            "line": 3,
+            "name": "@Regressionm5"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "To verify user interest for the countries",
+        "description": "",
+        "id": "bupa-where-you-are-module;to-verify-user-interest-for-the-countries;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 2784850400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 14164149300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the \"where you are\" login page of \"RegressionUI\" using \"config\" browser on \"config\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "where you are",
+                  "offset": 13
+                },
+                {
+                  "val": "RegressionUI",
+                  "offset": 43
+                },
+                {
+                  "val": "config",
+                  "offset": 64
+                },
+                {
+                  "val": "config",
+                  "offset": 84
+                }
+              ],
+              "location": "HomPageSteps.i_am_on_the_login_page_of_using_browser_on(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2583258100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on country using \"China\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "China",
+                  "offset": 26
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_click_on_country_using(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7523300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be navigated to the \"RegressionUI\" of \"ChinaPage\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RegressionUI",
+                  "offset": 30
+                },
+                {
+                  "val": "ChinaPage",
+                  "offset": 48
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_should_be_navigated_to_the_of(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WhereYouAre"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionUIm5"
+          },
+          {
+            "line": 3,
+            "name": "@Regressionm5"
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "To verify user interest for the countries",
+        "description": "",
+        "id": "bupa-where-you-are-module;to-verify-user-interest-for-the-countries;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 2806179700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9494400000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the \"where you are\" login page of \"RegressionUI\" using \"config\" browser on \"config\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "where you are",
+                  "offset": 13
+                },
+                {
+                  "val": "RegressionUI",
+                  "offset": 43
+                },
+                {
+                  "val": "config",
+                  "offset": 64
+                },
+                {
+                  "val": "config",
+                  "offset": 84
+                }
+              ],
+              "location": "HomPageSteps.i_am_on_the_login_page_of_using_browser_on(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 215746000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on country using \"Hong Kong SAR\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Hong Kong SAR",
+                  "offset": 26
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_click_on_country_using(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2280369900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be navigated to the \"RegressionUI\" of \"HongkongPage\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RegressionUI",
+                  "offset": 30
+                },
+                {
+                  "val": "HongkongPage",
+                  "offset": 48
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_should_be_navigated_to_the_of(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WhereYouAre"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionUIm5"
+          },
+          {
+            "line": 3,
+            "name": "@Regressionm5"
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "To verify user interest for the countries",
+        "description": "",
+        "id": "bupa-where-you-are-module;to-verify-user-interest-for-the-countries;;7",
+        "after": [
+          {
+            "result": {
+              "duration": 2684229400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8566266200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the \"where you are\" login page of \"RegressionUI\" using \"config\" browser on \"config\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "where you are",
+                  "offset": 13
+                },
+                {
+                  "val": "RegressionUI",
+                  "offset": 43
+                },
+                {
+                  "val": "config",
+                  "offset": 64
+                },
+                {
+                  "val": "config",
+                  "offset": 84
+                }
+              ],
+              "location": "HomPageSteps.i_am_on_the_login_page_of_using_browser_on(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1407231600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on country using \"India\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "India",
+                  "offset": 26
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_click_on_country_using(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8271300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be navigated to the \"RegressionUI\" of \"IndiaPage\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RegressionUI",
+                  "offset": 30
+                },
+                {
+                  "val": "IndiaPage",
+                  "offset": 48
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_should_be_navigated_to_the_of(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WhereYouAre"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionUIm5"
+          },
+          {
+            "line": 3,
+            "name": "@Regressionm5"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "To verify user interest for the countries",
+        "description": "",
+        "id": "bupa-where-you-are-module;to-verify-user-interest-for-the-countries;;8",
+        "after": [
+          {
+            "result": {
+              "duration": 2761026800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8667157700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the \"where you are\" login page of \"RegressionUI\" using \"config\" browser on \"config\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "where you are",
+                  "offset": 13
+                },
+                {
+                  "val": "RegressionUI",
+                  "offset": 43
+                },
+                {
+                  "val": "config",
+                  "offset": 64
+                },
+                {
+                  "val": "config",
+                  "offset": 84
+                }
+              ],
+              "location": "HomPageSteps.i_am_on_the_login_page_of_using_browser_on(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2180797100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on country using \"New Zealand\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "New Zealand",
+                  "offset": 26
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_click_on_country_using(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11755500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be navigated to the \"RegressionUI\" of \"NewzealandPage\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RegressionUI",
+                  "offset": 30
+                },
+                {
+                  "val": "NewzealandPage",
+                  "offset": 48
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_should_be_navigated_to_the_of(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WhereYouAre"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionUIm5"
+          },
+          {
+            "line": 3,
+            "name": "@Regressionm5"
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "To verify user interest for the countries",
+        "description": "",
+        "id": "bupa-where-you-are-module;to-verify-user-interest-for-the-countries;;9",
+        "after": [
+          {
+            "result": {
+              "duration": 3521879400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8131910200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the \"where you are\" login page of \"RegressionUI\" using \"config\" browser on \"config\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "where you are",
+                  "offset": 13
+                },
+                {
+                  "val": "RegressionUI",
+                  "offset": 43
+                },
+                {
+                  "val": "config",
+                  "offset": 64
+                },
+                {
+                  "val": "config",
+                  "offset": 84
+                }
+              ],
+              "location": "HomPageSteps.i_am_on_the_login_page_of_using_browser_on(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1607613100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on country using \"Poland\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Poland",
+                  "offset": 26
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_click_on_country_using(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 10348500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be navigated to the \"RegressionUI\" of \"PolandPage\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RegressionUI",
+                  "offset": 30
+                },
+                {
+                  "val": "PolandPage",
+                  "offset": 48
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_should_be_navigated_to_the_of(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WhereYouAre"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionUIm5"
+          },
+          {
+            "line": 3,
+            "name": "@Regressionm5"
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "To verify user interest for the countries",
+        "description": "",
+        "id": "bupa-where-you-are-module;to-verify-user-interest-for-the-countries;;10",
+        "after": [
+          {
+            "result": {
+              "duration": 2708980600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8723642300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the \"where you are\" login page of \"RegressionUI\" using \"config\" browser on \"config\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "where you are",
+                  "offset": 13
+                },
+                {
+                  "val": "RegressionUI",
+                  "offset": 43
+                },
+                {
+                  "val": "config",
+                  "offset": 64
+                },
+                {
+                  "val": "config",
+                  "offset": 84
+                }
+              ],
+              "location": "HomPageSteps.i_am_on_the_login_page_of_using_browser_on(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1742217400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on country using \"Saudi Arabia\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Saudi Arabia",
+                  "offset": 26
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_click_on_country_using(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6812400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be navigated to the \"RegressionUI\" of \"SaudiarabiaPage\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RegressionUI",
+                  "offset": 30
+                },
+                {
+                  "val": "SaudiarabiaPage",
+                  "offset": 48
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_should_be_navigated_to_the_of(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WhereYouAre"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionUIm5"
+          },
+          {
+            "line": 3,
+            "name": "@Regressionm5"
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "To verify user interest for the countries",
+        "description": "",
+        "id": "bupa-where-you-are-module;to-verify-user-interest-for-the-countries;;11",
+        "after": [
+          {
+            "result": {
+              "duration": 3093592400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7767245100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the \"where you are\" login page of \"RegressionUI\" using \"config\" browser on \"config\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "where you are",
+                  "offset": 13
+                },
+                {
+                  "val": "RegressionUI",
+                  "offset": 43
+                },
+                {
+                  "val": "config",
+                  "offset": 64
+                },
+                {
+                  "val": "config",
+                  "offset": 84
+                }
+              ],
+              "location": "HomPageSteps.i_am_on_the_login_page_of_using_browser_on(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1633331200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on country using \"Spain\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Spain",
+                  "offset": 26
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_click_on_country_using(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8493400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be navigated to the \"RegressionUI\" of \"SpainPage\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RegressionUI",
+                  "offset": 30
+                },
+                {
+                  "val": "SpainPage",
+                  "offset": 48
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_should_be_navigated_to_the_of(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WhereYouAre"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionUIm5"
+          },
+          {
+            "line": 3,
+            "name": "@Regressionm5"
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "To verify user interest for the countries",
+        "description": "",
+        "id": "bupa-where-you-are-module;to-verify-user-interest-for-the-countries;;12",
+        "after": [
+          {
+            "result": {
+              "duration": 2745376900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9929953800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the \"where you are\" login page of \"RegressionUI\" using \"config\" browser on \"config\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "where you are",
+                  "offset": 13
+                },
+                {
+                  "val": "RegressionUI",
+                  "offset": 43
+                },
+                {
+                  "val": "config",
+                  "offset": 64
+                },
+                {
+                  "val": "config",
+                  "offset": 84
+                }
+              ],
+              "location": "HomPageSteps.i_am_on_the_login_page_of_using_browser_on(String,String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1726246600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on country using \"Worldwide\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Worldwide",
+                  "offset": 26
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_click_on_country_using(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12453500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be navigated to the \"RegressionUI\" of \"WorldwidePage\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "RegressionUI",
+                  "offset": 30
+                },
+                {
+                  "val": "WorldwidePage",
+                  "offset": 48
+                }
+              ],
+              "location": "BupaWhereYouAreSteps.i_should_be_navigated_to_the_of(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              4
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@WhereYouAre"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionUIm5"
+          },
+          {
+            "line": 3,
+            "name": "@Regressionm5"
+          }
+        ]
+      }
+    ],
+    "name": "Bupa where you are module",
+    "description": "",
+    "id": "bupa-where-you-are-module",
+    "keyword": "Feature",
+    "uri": "BupaWhereAreYou.feature"
+  }
+]

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="11" time="181.121817">
+    <testcase classname="Bupa where you are module" name="To verify user interest for the countries" time="26.8013">
+        <system-out>
+            <![CDATA[Given I am on the "where you are" login page of "RegressionUI" using "config" browser on "config".passed
+When I click on country using "United Kingdom"..............................passed
+Then I should be navigated to the "RegressionUI" of "UnitedkingdomPage".....passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Bupa where you are module" name="To verify user interest for the countries 2" time="18.809639">
+        <system-out>
+            <![CDATA[Given I am on the "where you are" login page of "RegressionUI" using "config" browser on "config".passed
+When I click on country using "Australia"...................................passed
+Then I should be navigated to the "RegressionUI" of "AustraliaPage".........passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Bupa where you are module" name="To verify user interest for the countries 3" time="21.517568">
+        <system-out>
+            <![CDATA[Given I am on the "where you are" login page of "RegressionUI" using "config" browser on "config".passed
+When I click on country using "Chile".......................................passed
+Then I should be navigated to the "RegressionUI" of "ChilePage".............passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Bupa where you are module" name="To verify user interest for the countries 4" time="19.539781">
+        <system-out>
+            <![CDATA[Given I am on the "where you are" login page of "RegressionUI" using "config" browser on "config".passed
+When I click on country using "China".......................................passed
+Then I should be navigated to the "RegressionUI" of "ChinaPage".............passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Bupa where you are module" name="To verify user interest for the countries 5" time="14.796696">
+        <system-out>
+            <![CDATA[Given I am on the "where you are" login page of "RegressionUI" using "config" browser on "config".passed
+When I click on country using "Hong Kong SAR"...............................passed
+Then I should be navigated to the "RegressionUI" of "HongkongPage"..........passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Bupa where you are module" name="To verify user interest for the countries 6" time="12.665999">
+        <system-out>
+            <![CDATA[Given I am on the "where you are" login page of "RegressionUI" using "config" browser on "config".passed
+When I click on country using "India".......................................passed
+Then I should be navigated to the "RegressionUI" of "IndiaPage".............passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Bupa where you are module" name="To verify user interest for the countries 7" time="13.620737">
+        <system-out>
+            <![CDATA[Given I am on the "where you are" login page of "RegressionUI" using "config" browser on "config".passed
+When I click on country using "New Zealand".................................passed
+Then I should be navigated to the "RegressionUI" of "NewzealandPage"........passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Bupa where you are module" name="To verify user interest for the countries 8" time="13.271751">
+        <system-out>
+            <![CDATA[Given I am on the "where you are" login page of "RegressionUI" using "config" browser on "config".passed
+When I click on country using "Poland"......................................passed
+Then I should be navigated to the "RegressionUI" of "PolandPage"............passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Bupa where you are module" name="To verify user interest for the countries 9" time="13.181653">
+        <system-out>
+            <![CDATA[Given I am on the "where you are" login page of "RegressionUI" using "config" browser on "config".passed
+When I click on country using "Saudi Arabia"................................passed
+Then I should be navigated to the "RegressionUI" of "SaudiarabiaPage".......passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Bupa where you are module" name="To verify user interest for the countries 10" time="12.502662">
+        <system-out>
+            <![CDATA[Given I am on the "where you are" login page of "RegressionUI" using "config" browser on "config".passed
+When I click on country using "Spain".......................................passed
+Then I should be navigated to the "RegressionUI" of "SpainPage".............passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Bupa where you are module" name="To verify user interest for the countries 11" time="14.414031">
+        <system-out>
+            <![CDATA[Given I am on the "where you are" login page of "RegressionUI" using "config" browser on "config".passed
+When I click on country using "Worldwide"...................................passed
+Then I should be navigated to the "RegressionUI" of "WorldwidePage".........passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
